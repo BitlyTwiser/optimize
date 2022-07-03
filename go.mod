@@ -1,4 +1,4 @@
-module github.com/pa-m/optimize
+module github.com/BitlyTwiser/optimize
 
 require (
 	golang.org/x/exp v0.0.0-20191129062945-2f5052295587
